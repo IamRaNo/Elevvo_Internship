@@ -1,2 +1,2 @@
 # Elevvo_Internship
-Github Repo of Elevvo Inernship Tasks
+Github Repo of Elevvo Data Analysis Inernship Tasks
