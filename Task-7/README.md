@@ -36,10 +36,4 @@ The goal is to identify sales patterns and forecast future sales.
 - **Matplotlib**, **Seaborn** (visualization)  
 - **XGBoost** (time series forecasting)  
 
----
-
-## 🚀 How to Run  
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/your-username/Walmart-Sales-Forecasting.git
 
