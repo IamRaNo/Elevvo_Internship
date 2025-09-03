@@ -50,8 +50,8 @@ Here are some highlights from the analysis (details in the PDF):
 ## 📂 Repository Structure  
 
     📦 Chinook-SQL-Analysis
-     ┣ 📜 analysis.sql        # SQL queries (single & multi-table)
-     ┣ 📜 findings.pdf        # Business insights report
+     ┣ 📜 data_analysis.sql        # SQL queries (single & multi-table)
+     ┣ 📜 chinook analysis.pdf        # Business insights report
      ┣ 📜 README.md           # Project documentation
 
 ---
